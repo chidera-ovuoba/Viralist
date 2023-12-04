@@ -14,7 +14,7 @@ export default function TestimonialCard({
 }) {
   return (
     <article
-      className="p-9 w-[350px] justify-self-center rounded-md bg-white"
+      className="p-9 w-[350px] justify-self-center    rounded-md bg-white"
       key={author}
     >
       <q className="text-[26px] leading-[36px]">{quote}</q>
